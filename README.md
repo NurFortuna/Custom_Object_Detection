@@ -53,4 +53,16 @@ In this model I used **ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8** for object de
 ![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model3/test/result_images/result5.png)
 
 
+## Model-Master 4 ##
+In this model I used **ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8** for object detection. 
+### TensorBoard ###
+![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model4/test/result_images/tensorboard.JPG)
+
+![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model4/test/result_images/2.png)
+![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model4/test/result_images/1.png)
+
+![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model4/test/result_images/4.png)
+![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model4/test/result_images/5.png)
+
+
 
