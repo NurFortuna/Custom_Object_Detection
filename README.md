@@ -1,10 +1,10 @@
 # **TensorFlow 2  Custom Object Detection** :candy:
 
-### I explain train your custom object detection with Tensorflow 2. I used the traffic light dataset I created myself. I collected images myself and used the labelImg package to label images. If you haven't installed the package yet, have a look at the LabelImg Installation.  ###
+###  617  images are divided that 466 images were included in the training data set and 151 images were included in the test data set. In  data set, the traffic light (go, wait,stop)  are marked on the images and the coordinates have been converted to XML format for training. These clusters in the form of XML files have been converted into TFRecord files for training of the Tensorflow library, and important parameter changes have been made for training. ###
+![image](https://github.com/NurFortuna/Custom_Object_Detection/blob/main/model4/test/test_images/test7.jpg)
 
-![image](https://github.com/NurFortuna/Custom_Object_Detection_Tensorflow2/blob/main/modelmaster2/veri.JPG)
-
-
+##  Label Map ##
+ 
 ```
 item {
     name: "stoplight",
